@@ -1,7 +1,5 @@
 package com.example.demo.student;
-
 import jakarta.persistence.*;
-
 import java.time.LocalDate;
 import java.time.Period;
 
